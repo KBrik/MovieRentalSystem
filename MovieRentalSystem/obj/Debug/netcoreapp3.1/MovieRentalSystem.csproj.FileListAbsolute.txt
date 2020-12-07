@@ -1,0 +1,13 @@
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\netcoreapp3.1\MovieRentalSystem.exe
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\netcoreapp3.1\MovieRentalSystem.deps.json
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\netcoreapp3.1\MovieRentalSystem.runtimeconfig.json
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\netcoreapp3.1\MovieRentalSystem.runtimeconfig.dev.json
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\netcoreapp3.1\MovieRentalSystem.dll
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\bin\Debug\netcoreapp3.1\MovieRentalSystem.pdb
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\netcoreapp3.1\MovieRentalSystem.csprojAssemblyReference.cache
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\netcoreapp3.1\MovieRentalSystem.AssemblyInfoInputs.cache
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\netcoreapp3.1\MovieRentalSystem.AssemblyInfo.cs
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\netcoreapp3.1\MovieRentalSystem.csproj.CoreCompileInputs.cache
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\netcoreapp3.1\MovieRentalSystem.dll
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\netcoreapp3.1\MovieRentalSystem.pdb
+C:\Users\Taria\source\repos\MovieRentalSystem\MovieRentalSystem\obj\Debug\netcoreapp3.1\MovieRentalSystem.genruntimeconfig.cache
